@@ -3,4 +3,4 @@
  
  Here is the link to this file:  https://cdn.jsdelivr.net/gh/fawazahmed0/LargeTxtFile@master/testabc.txt
  
-<a href="http://example.com/" target="_blank">Hello, world!</a>
+<a href="http://example.com/">Hello, world!</a>
