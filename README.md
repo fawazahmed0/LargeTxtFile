@@ -3,6 +3,6 @@
  
  Here is the link to this file:  https://cdn.jsdelivr.net/gh/fawazahmed0/LargeTxtFile@master/testabc.txt
 
-<img src="https://github.com/mojombo/github-flavored-markdown/issues/28" alt="test">
+<img src="https://cdn.jsdelivr.net/gh/fawazahmed0/LargeTxtFile@master/testabc.txt" alt="test">
 
-![test](https://github.com/mojombo/github-flavored-markdown/issues/28)  
+![test](https://cdn.jsdelivr.net/gh/fawazahmed0/LargeTxtFile@master/testabc.txt)  
