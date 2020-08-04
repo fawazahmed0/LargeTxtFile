@@ -3,4 +3,4 @@
  
  Here is the link to this file:  https://cdn.jsdelivr.net/gh/fawazahmed0/LargeTxtFile@master/testabc.txt
  
- [link name](https://cdn.jsdelivr.net/gh/fawazahmed0/LargeTxtFile@master/testabc.txt){:target="_blank"}
+<a href="http://example.com/" target="_blank">Hello, world!</a>
