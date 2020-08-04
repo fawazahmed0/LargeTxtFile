@@ -5,4 +5,4 @@
 
 <img src="https://github.com/mojombo/github-flavored-markdown/issues/28" alt="test">
 
-![test](http://example.com/)  
+![test](https://github.com/mojombo/github-flavored-markdown/issues/28)  
