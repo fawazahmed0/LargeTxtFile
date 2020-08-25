@@ -6,9 +6,9 @@ Here is the link to this file:
 https://cdn.jsdelivr.net/gh/fawazahmed0/LargeTxtFile@master/testabc.txt
 
 
-The Endpoints Supports HTTP GET Method and returns the data in two formats:
-`.min.json`
-`.json`
+The Endpoints Supports HTTP GET Method and returns the data in two formats:<br>
+`.min.json`<br>
+`.json` 
 
 **Endpoints:**
 `/editions`
