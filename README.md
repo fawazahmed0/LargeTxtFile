@@ -7,8 +7,8 @@ https://cdn.jsdelivr.net/gh/fawazahmed0/LargeTxtFile@master/testabc.txt
 
 
 The Endpoints Supports HTTP GET Method and returns the data in two formats:
-    .min.json
-    .json
+`.min.json`
+`.json`
 
 **Endpoints:**
 `/editions`
